@@ -19,17 +19,18 @@ To run this game locally, you need to have the following installed on your syste
 1. Clone the repository to your local machine using the following command:
    ```git clone https://github.com/MindaugasUlskis/Python-Parking-Game-Pygame-.git```
 2. Navigate to the project directory:
-   ```cd car-parking-game```
+   ```cd Python-Parking-Game-Pygame-```
 3. Install the required dependencies:
    ```pip install pygame```
+   ```pip install pytmx```
+   ```pip install pathfinding```
 ## Usage
 1. Run the game using the following command:
-   ```python game.py```
+   ```python main.py```
 2. Follow the on-screen instructions to play the game.
 3. Use the arrow keys to control the car and navigate through the parking area.
 4. Try to park the car in the designated parking spot without colliding with any obstacles.
-5. Each level has a time limit, so try to complete the parking challenge within the given time frame.
-6. Earn points for successful parking and advance to the next level.
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
