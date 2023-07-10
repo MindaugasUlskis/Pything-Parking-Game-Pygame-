@@ -17,7 +17,7 @@ To run this game locally, you need to have the following installed on your syste
 
 ## Installation
 1. Clone the repository to your local machine using the following command:
-   ```git clone https://github.com/your-username/car-parking-game.git```
+   ```git clone https://github.com/MindaugasUlskis/Python-Parking-Game-Pygame-.git```
 2. Navigate to the project directory:
    ```cd car-parking-game```
 3. Install the required dependencies:
