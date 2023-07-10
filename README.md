@@ -40,3 +40,5 @@ This project is licensed under the [MIT License](LICENSE).
 - Thanks to the Pygame community for their excellent library and resources.
 
 Feel free to contribute to this project by submitting bug reports, feature requests, or pull requests.
+## ScreenShot
+![Car Parking Game Screenshot](car_parking_game_demo_photo.png)
